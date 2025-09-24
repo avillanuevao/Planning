@@ -4,7 +4,7 @@ Aplicación web desarrollada con HTML, CSS y JavaScript, publicada mediante **Gi
 
 Puedes acceder a la aplicación directamente desde:
 
-> **[[https://tu-usuario.github.io/tu-repo](https://avillanuevao.github.io/Planning/)](https://avillanuevao.github.io/Planning/)**
+> https://avillanuevao.github.io/Planning/
 
 ---
 
